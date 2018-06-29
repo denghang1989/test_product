@@ -41,8 +41,6 @@
     height: 100%;
     width: 100%;
     display: flex;
-    flex-wrap: nowrap;
-    flex-direction: column;
   }
   
   .login .box-card {
@@ -53,7 +51,7 @@
   
   .login_button {
     width: 100%;
-    margin-top: 20px;
+    margin-top: 7px;
   }
 
 </style>
